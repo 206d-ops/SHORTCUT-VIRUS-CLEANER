@@ -1,0 +1,1 @@
+start "" "%~dp0bin\Debug\net10.0-windows\ShortcutCleaner.exe"
